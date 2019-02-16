@@ -1,0 +1,7 @@
+C:\Users\Binh\Desktop\C#Udemy\C#Fun\basicOfCSharp\basicOfCSharp\bin\Debug\basicOfCSharp.exe.config
+C:\Users\Binh\Desktop\C#Udemy\C#Fun\basicOfCSharp\basicOfCSharp\bin\Debug\basicOfCSharp.exe
+C:\Users\Binh\Desktop\C#Udemy\C#Fun\basicOfCSharp\basicOfCSharp\bin\Debug\basicOfCSharp.pdb
+C:\Users\Binh\Desktop\C#Udemy\C#Fun\basicOfCSharp\basicOfCSharp\obj\Debug\basicOfCSharp.csprojAssemblyReference.cache
+C:\Users\Binh\Desktop\C#Udemy\C#Fun\basicOfCSharp\basicOfCSharp\obj\Debug\basicOfCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Binh\Desktop\C#Udemy\C#Fun\basicOfCSharp\basicOfCSharp\obj\Debug\basicOfCSharp.exe
+C:\Users\Binh\Desktop\C#Udemy\C#Fun\basicOfCSharp\basicOfCSharp\obj\Debug\basicOfCSharp.pdb

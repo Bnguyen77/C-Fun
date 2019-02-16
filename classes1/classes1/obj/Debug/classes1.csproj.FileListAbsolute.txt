@@ -1,0 +1,7 @@
+C:\Users\Binh\Desktop\C#Udemy\C#Fun\classes1\classes1\bin\Debug\classes1.exe.config
+C:\Users\Binh\Desktop\C#Udemy\C#Fun\classes1\classes1\bin\Debug\classes1.exe
+C:\Users\Binh\Desktop\C#Udemy\C#Fun\classes1\classes1\bin\Debug\classes1.pdb
+C:\Users\Binh\Desktop\C#Udemy\C#Fun\classes1\classes1\obj\Debug\classes1.csprojAssemblyReference.cache
+C:\Users\Binh\Desktop\C#Udemy\C#Fun\classes1\classes1\obj\Debug\classes1.csproj.CoreCompileInputs.cache
+C:\Users\Binh\Desktop\C#Udemy\C#Fun\classes1\classes1\obj\Debug\classes1.exe
+C:\Users\Binh\Desktop\C#Udemy\C#Fun\classes1\classes1\obj\Debug\classes1.pdb
